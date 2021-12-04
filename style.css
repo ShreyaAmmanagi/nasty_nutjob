@@ -1,0 +1,14 @@
+.titles{
+ color: rgb(184, 103, 12);
+ font-family: 'ink free';
+ font-weight: bolder;
+ font-size: 20px;
+}
+.problems{
+    color:rgb(29, 157, 216);
+    font-family: 'Courier New', Courier, monospace;
+}
+.solutions{
+    color: rgb(103, 196, 10);
+    font-family: 'Courier New', Courier, monospace;
+}
